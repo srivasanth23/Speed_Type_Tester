@@ -1,0 +1,56 @@
+.bg-container {
+    background-image: linear-gradient(#ffffff, #690cb0);
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: #690cb0;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.para {
+    color: #3e4c59;
+}
+
+.image {
+    height: 70px;
+}
+
+.seconds {
+    font-size: 20px;
+    color: #3e4c59;
+}
+
+.timer {
+    font-size: 30px;
+}
+
+.card {
+    height: 45vh;
+    border-radius: 20px;
+    border-color: #cbd2d9;
+    background-color: #f3eaff;
+}
+
+.result {
+    color: #cbd2d9;
+    font-size: 20px;
+}
+
+.purple {
+    background-color: #dac0ff;
+    height: 40px;
+    width: 90px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.white {
+    background-color: #f2ebfe;
+    height: 40px;
+    width: 90px;
+    border-radius: 8px;
+    border-width: 0px;
+}
